@@ -1,15 +1,9 @@
-# 👷 `worker-template` Hello World
+# LinkTree
 
-A template for kick starting a Cloudflare worker project.
+`by Angel Campbell`
 
-[`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
+A linktree-esque website listing links to other websites.
 
-#### Wrangler
+## Purpose
 
-To generate using [wrangler](https://github.com/cloudflare/wrangler)
-
-```
-wrangler generate projectname https://github.com/cloudflare/worker-template
-```
-
-Further documentation for Wrangler can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler).
+Build a project using [Cloudflare Worker](https://developers.cloudflare.com/workers/)
